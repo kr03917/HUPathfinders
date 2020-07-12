@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 701c9b1c9eb7d3c4a94870da0c7e5db7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 900776437186955328
+    second: Wind obst animation_0
+  - first:
+      213: -1868206697514023296
+    second: Wind obst animation_1
+  - first:
+      213: 5504755268117386510
+    second: Wind obst animation_2
+  - first:
+      213: 5301800500212231
+    second: Wind obst animation_3
+  - first:
+      213: 4333780946879206342
+    second: Wind obst animation_4
+  - first:
+      213: 6257042617700928906
+    second: Wind obst animation_5
+  - first:
+      213: 1540346765854755790
+    second: Wind obst animation_6
+  - first:
+      213: 8167695236997736664
+    second: Wind obst animation_7
+  - first:
+      213: 2047500956105036884
+    second: Wind obst animation_8
+  - first:
+      213: 8555696683612124133
+    second: Wind obst animation_9
+  - first:
+      213: 1080309502501324915
+    second: Wind obst animation_10
+  - first:
+      213: 2166059688501346603
+    second: Wind obst animation_11
+  - first:
+      213: -8032827546818563821
+    second: Wind obst animation_12
+  - first:
+      213: 1009912173389888154
+    second: Wind obst animation_13
+  - first:
+      213: -3903153114235128655
+    second: Wind obst animation_14
+  - first:
+      213: 6181891049467719760
+    second: Wind obst animation_15
+  - first:
+      213: -5681404883185626589
+    second: Wind obst animation_16
+  - first:
+      213: -1299618847232054051
+    second: Wind obst animation_17
+  - first:
+      213: -8748360221105799450
+    second: Wind obst animation_18
+  - first:
+      213: -4183061692019752919
+    second: Wind obst animation_19
+  - first:
+      213: 4442028458380254429
+    second: Wind obst animation_20
+  - first:
+      213: -4520540805962401013
+    second: Wind obst animation_21
+  - first:
+      213: -7790376519759192134
+    second: Wind obst animation_22
+  - first:
+      213: -3951501491995407274
+    second: Wind obst animation_23
+  - first:
+      213: -3752594008619824593
+    second: Wind obst animation_24
+  - first:
+      213: -8877588285177319933
+    second: Wind obst animation_25
+  - first:
+      213: -3993078432217316798
+    second: Wind obst animation_26
+  - first:
+      213: -1021810572017100911
+    second: Wind obst animation_27
+  - first:
+      213: 2354558652201810246
+    second: Wind obst animation_28
+  - first:
+      213: 3113567485402841695
+    second: Wind obst animation_29
+  - first:
+      213: 6469309829176061989
+    second: Wind obst animation_30
+  - first:
+      213: -1003868436777274592
+    second: Wind obst animation_31
+  - first:
+      213: 7268361819151598001
+    second: Wind obst animation_32
+  - first:
+      213: 6981560942349293070
+    second: Wind obst animation_33
+  - first:
+      213: 6101121248090786508
+    second: Wind obst animation_34
+  - first:
+      213: -7899800262158638013
+    second: Wind obst animation_35
+  - first:
+      213: -6171981444582624681
+    second: Wind obst animation_36
+  - first:
+      213: -5645143857842320809
+    second: Wind obst animation_37
+  - first:
+      213: -4574980368671695540
+    second: Wind obst animation_38
+  - first:
+      213: -501243510426502415
+    second: Wind obst animation_39
+  - first:
+      213: -2083757005959498745
+    second: Wind obst animation_40
+  - first:
+      213: -5507888540702185057
+    second: Wind obst animation_41
+  - first:
+      213: 9061027534459857669
+    second: Wind obst animation_42
+  - first:
+      213: 4382215772256362191
+    second: Wind obst animation_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wind obst animation_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2695
+        width: 1978
+        height: 1301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0480298a563308c00800000000000000
+      internalID: 900776437186955328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind obst animation_1
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 2636
+        width: 2223
+        height: 1279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086cba328ebc216e0800000000000000
+      internalID: -1868206697514023296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind obst animation_2
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 2628
+        width: 1688
+        height: 1264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05d89b30c1d46c40800000000000000
+      internalID: 5504755268117386510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

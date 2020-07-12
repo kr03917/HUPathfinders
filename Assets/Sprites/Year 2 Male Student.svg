@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2475"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Year 1 Male Student.svg">
+  <defs
+     id="defs2469">
+    <linearGradient
+       id="linearGradient3195"
+       inkscape:collect="always">
+      <stop
+         id="stop3191"
+         offset="0"
+         style="stop-color:#ff8080;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:1"
+         offset="0.38277629"
+         id="stop3197" />
+      <stop
+         id="stop3193"
+         offset="1"
+         style="stop-color:#ffc097;stop-opacity:0;" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter909">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood899" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite901" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur903" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset905" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite907" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2414">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2404" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2406" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur2408" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset2410" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2412" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2506"
+       id="linearGradient2508"
+       x1="1030.1866"
+       y1="-116.73325"
+       x2="967.70007"
+       y2="-240.74631"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.12500658,0,0,0.12427337,-17.842309,89.530675)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2506">
+      <stop
+         style="stop-color:#ff8080;stop-opacity:1"
+         offset="0"
+         id="stop2502" />
+      <stop
+         style="stop-color:#ffc097;stop-opacity:0;"
+         offset="1"
+         id="stop2504" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3195"
+       id="linearGradient3189"
+       x1="108.28309"
+       y1="49.349628"
+       x2="107.98824"
+       y2="92.269318"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-285.27887"
+     inkscape:cy="718.77536"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1265"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2472">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="display:inline;opacity:1"
+       id="g4601"
+       transform="translate(-29.883594,13.836881)"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1374">
+        <g
+           id="g1400"
+           transform="translate(28.938802,28.111979)">
+          <ellipse
+             ry="31.620188"
+             rx="33.276806"
+             cy="54.962288"
+             cx="104.70722"
+             id="path815"
+             style="fill:url(#linearGradient3189);fill-opacity:1;stroke-width:0.03297751" />
+          <g
+             transform="matrix(0.12500658,0,0,0.12427337,-12.496636,86.873516)"
+             id="g935">
+            <ellipse
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.26641437;filter:url(#filter909)"
+               id="path819"
+               cx="939.71954"
+               cy="-287.78577"
+               rx="78.042694"
+               ry="75.904549" />
+            <ellipse
+               style="fill:#008000;fill-opacity:1;stroke-width:0.26787019"
+               id="path821"
+               cx="958.96301"
+               cy="-282.44037"
+               rx="43.832199"
+               ry="42.763123" />
+            <circle
+               style="fill:#000000;fill-opacity:1;stroke-width:0.21841374"
+               id="path825"
+               cx="960.0321"
+               cy="-282.44037"
+               r="27.796032" />
+            <circle
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+               id="path827"
+               cx="954.68671"
+               cy="-272.81866"
+               r="11.759859" />
+          </g>
+          <g
+             id="g945"
+             transform="matrix(0.06997391,0,0,0.11278906,64.076014,82.372772)">
+            <ellipse
+               ry="75.904549"
+               rx="78.042694"
+               cy="-287.78577"
+               cx="939.71954"
+               id="ellipse937"
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.26641437;filter:url(#filter909)" />
+            <ellipse
+               ry="42.763123"
+               rx="43.832199"
+               cy="-282.44037"
+               cx="958.96301"
+               id="ellipse939"
+               style="fill:#008000;fill-opacity:1;stroke-width:0.26787019" />
+            <circle
+               r="27.796032"
+               cy="-282.44037"
+               cx="960.0321"
+               id="circle941"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.21841374" />
+            <circle
+               r="11.759859"
+               cy="-272.81866"
+               cx="954.68671"
+               id="circle943"
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332" />
+          </g>
+          <path
+             sodipodi:nodetypes="sssss"
+             inkscape:connector-curvature="0"
+             id="ellipse947"
+             d="m 73.034117,50.84369 c -10e-7,6.677162 5.214614,12.090072 -1.870985,12.090072 -7.085599,10e-7 -12.829613,-5.41291 -12.829613,-12.090072 0,-6.677162 5.744014,-12.090073 12.829613,-12.090071 7.085599,0 1.870984,5.412909 1.870985,12.090071 z"
+             style="fill:#ffd2aa;fill-opacity:1;stroke-width:0.01266153" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path952"
+             d="m 62.016237,45.904681 c 9.90839,-1.404022 16.863316,5.188599 16.863316,5.188599 0,0 -4.345151,2.668984 -12.95484,6.875794 0,0 6.368672,-6.495136 7.109404,-7.125384 -2.282356,-2.849125 -6.648741,-3.421532 -11.01788,-4.939009 z"
+             style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.01693443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="sssss"
+             inkscape:connector-curvature="0"
+             id="path954"
+             d="m 73.034114,43.441896 c 0,1.415255 -2.453172,-0.139775 -5.479314,-0.139775 -3.026141,0 -5.479312,1.55503 -5.479312,0.139775 0,-1.415256 2.453171,-2.562548 5.479312,-2.562548 3.026143,0 5.479314,1.147292 5.479314,2.562548 z"
+             style="fill:#ffeec1;fill-opacity:1;stroke-width:0.01572714" />
+          <path
+             d="m 72.599559,58.047797 a 5.0247617,1.4194829 0 0 1 3.36873,1.409781 5.0247617,1.4194829 0 0 1 -3.837533,1.310678 5.0247617,1.4194829 0 0 1 -5.53368,-0.67036 5.0247617,1.4194829 0 0 1 0.715699,-1.688863 l 3.636696,0.979524 z"
+             sodipodi:end="3.9031608"
+             sodipodi:start="5.046989"
+             sodipodi:ry="1.4194829"
+             sodipodi:rx="5.0247617"
+             sodipodi:cy="59.388557"
+             sodipodi:cx="70.949471"
+             sodipodi:type="arc"
+             id="path968"
+             style="fill:#ffeeaa;fill-opacity:1;stroke-width:0.03297751" />
+          <path
+             sodipodi:nodetypes="sscssssss"
+             inkscape:connector-curvature="0"
+             id="rect970"
+             d="m 88.620058,34.657652 c 8.667286,0.46011 18.723342,-0.947318 25.540252,2.819839 0.44843,0.247807 1.90281,-0.171208 -0.22096,2.17901 l -0.73919,4.531719 c -0.0765,0.468902 -0.5828,0.889558 -1.06044,0.695941 -7.87521,-3.192297 -16.163683,-3.851006 -24.534968,-4.002001 -0.51668,-0.0093 -0.860812,-0.527947 -0.784328,-0.996849 l 0.739188,-4.531718 c 0.07648,-0.468904 0.543987,-0.723359 1.060446,-0.695941 z"
+             style="fill:#502d16;fill-opacity:1;stroke-width:0.03017423" />
+          <path
+             sodipodi:nodetypes="sssssscss"
+             inkscape:connector-curvature="0"
+             id="rect972"
+             d="m 117.87603,37.576691 c 5.33039,-2.640904 12.8976,-3.315447 18.91806,-3.598403 0.43382,-0.02039 0.8556,0.144608 0.98787,0.596554 l 1.27825,4.367826 c 0.13227,0.451943 -0.0754,1.032729 -0.51037,1.035018 -6.43287,0.03391 -11.83638,2.112762 -16.86535,4.935693 -0.37856,0.212502 0,0 -0.98785,-0.596556 l -1.27826,-4.367826 c -0.13226,-0.451946 -1.93075,-2.179878 -1.54235,-2.372306 z"
+             style="fill:#502d16;fill-opacity:1;stroke-width:0.0274534" />
+          <path
+             sodipodi:nodetypes="sssss"
+             inkscape:connector-curvature="0"
+             id="path979"
+             d="m 130.07391,64.232185 c 2.55613,2.219655 -3.94883,5.078765 -6.87388,5.078764 -2.92504,-5e-6 -6.87389,-1.008 -6.87389,-4.46259 0,-3.45459 -0.55864,-12.808937 2.36643,-12.80894 2.92504,-3e-6 5.52164,7.104378 11.38134,12.192766 z"
+             style="fill:url(#linearGradient2508);fill-opacity:1;stroke-width:0.03285311" />
+          <g
+             transform="matrix(0.12500658,0,0,0.12427337,-18.911443,-6.4467952)"
+             id="g2591">
+            <ellipse
+               style="fill:#d38f5f;fill-opacity:1;stroke-width:0.25859198"
+               id="path2548"
+               cx="1086.1832"
+               cy="663.05957"
+               rx="68.420998"
+               ry="38.486809" />
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.25495887"
+               d="m 1026.0386,641.74517 c 9.4877,-14.34804 63.7461,-24.10062 94.6212,-12.80785 0,0 8.2486,2.41651 8.832,6.72613 l 0.4753,3.51133 c 0.5833,4.3096 -3.3803,6.05377 -6.7261,8.83205 -36.4681,30.28277 -64.4142,15.57753 -94.6212,12.80785 -4.3307,-0.39709 -12.1132,-3.87174 -8.832,-6.72613 l 1.9303,-1.67928 c 3.281,-2.85439 4.3205,-10.6641 4.3205,-10.6641 z"
+               id="rect2553"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccssssssc" />
+          </g>
+          <g
+             transform="matrix(0.12500658,0,0,0.12427337,-17.842309,-7.7753746)"
+             id="g2587">
+            <path
+               style="fill:#784421;fill-opacity:1;stroke-width:0.29139557"
+               d="m 1398.3541,235.57891 c 0,34.90244 -55.0699,80.61722 -124.2936,105.29698 -69.2236,24.67976 -135.2425,-64.74235 -232.6918,-55.30945 -189.7018,18.36278 -316.53383,161.43395 -316.53381,88.75338 0,-72.68058 92.44816,-243.81675 296.30801,-243.81675 97.8969,0 199.8746,-12.65905 269.0982,12.02071 69.2236,24.67975 108.113,58.15268 108.113,93.05513 z"
+               id="path2525"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="sssssss" />
+            <path
+               style="fill:#784421;fill-opacity:1;stroke-width:0.31152833"
+               d="m 748.26834,368.36393 31.68826,4.27631 c 5.97492,0.80631 -6.88396,79.72561 -6.22243,85.71829 l 6.41447,58.10747 c 71.22069,33.78871 -11.26821,27.98807 -17.29729,27.98807 h -6.03039 c -6.02907,0 -19.43544,12.2515 -19.43544,6.22242 v -173.5679 c 0,-6.02908 4.9079,-9.55098 10.88282,-8.74466 z"
+               id="rect2556"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ssscsssss" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path3409"
+       d="m 129.15979,111.8732 c -1.74335,-3.81681 1.75517,-6.36803 6.94524,-8.85012 5.19008,-2.48209 8.43647,-2.86338 11.65984,-0.0475 0,0 2.41087,15.48896 -2.7792,17.97107 -5.19005,2.48207 -14.08253,-5.25664 -15.82588,-9.07344 z"
+       style="display:inline;opacity:1;fill:#ffccaa;fill-opacity:1;stroke-width:0.11501399"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;opacity:1;fill:#ffccaa;fill-opacity:1;stroke-width:0.07609061"
+       d="m 135.77532,129.99001 c 0.52447,-4.23326 0.6152,-16.00054 4.97945,-16.62176 4.36421,-0.62121 9.52709,10.14964 11.05226,14.33979 1.55284,4.26613 -0.73437,10.11517 -5.09856,10.73638 -4.36424,0.62119 -11.48488,-4.0003 -10.93315,-8.45441 z"
+       id="path3407"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       transform="translate(10.217312,13.010058)"
+       style="display:inline"
+       id="g1265"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Body &amp; Neck.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:nodetypes="ssssssssss"
+         inkscape:connector-curvature="0"
+         id="rect1346"
+         d="m 69.06423,114.05646 c 22.190194,7.34859 31.29745,0.3161 30.660759,2.78551 -0.798851,3.09835 -2.496939,-3.48177 5.765171,-3.81007 0.70012,-0.0278 7.89118,1.62917 7.87933,2.37999 l -0.92156,58.38547 c -0.0119,0.75081 -0.16896,-0.31622 -0.85134,-0.15444 l -42.53236,10.08375 c -0.68238,0.16178 -1.26475,-0.60452 -1.26475,-1.35543 v -66.95935 c 0,-0.75091 0.614389,-1.57081 1.26475,-1.35543 z"
+         style="display:inline;opacity:1;fill:#5f0080;fill-opacity:1;stroke:#040000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path976"
+         d="m 99.066699,117.4805 c -2.58275,4.36886 -11.069677,11.47541 -15.521945,7.08706 -4.170211,-4.11034 -5.725623,-5.35012 -7.153726,-14.29525 -0.800129,-5.01173 6.978239,1.6752 12.965358,3.47369 5.987119,1.79848 12.293064,-0.63437 9.710313,3.7345 z"
+         style="display:inline;opacity:1;fill:#ffccaa;fill-opacity:1;stroke-width:0.02950716"
+         inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       style="display:inline;opacity:1"
+       id="g1422"
+       transform="translate(-10.531948,25.612774)"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         transform="matrix(0.83931155,-0.11746731,0.11215252,0.8790857,13.721258,27.149661)"
+         id="g4571">
+        <path
+           sodipodi:nodetypes="sssss"
+           inkscape:connector-curvature="0"
+           id="path3424"
+           d="m 122.78321,227.13347 c 40.08514,14.78663 -8.40337,12.81576 -15.70964,12.81576 -7.306276,0 -10.748704,-5.73781 -10.748701,-12.81576 3e-6,-7.07794 3.442435,-12.81575 10.748701,-12.81575 7.30627,0 9.06909,10.36618 15.70964,12.81575 z"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.26458332" />
+        <path
+           sodipodi:nodetypes="sssss"
+           inkscape:connector-curvature="0"
+           id="path3433"
+           d="m 110.38086,234.57486 c -1.1942,2.83142 -2.26355,3.80056 -5.03692,2.45857 -2.77337,-1.34198 -3.82985,-5.25555 -2.63565,-8.08697 1.1942,-2.83143 1.95001,1.79503 4.72338,3.13701 2.77337,1.34199 4.14339,-0.34004 2.94919,2.49139 z"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.08947465" />
+      </g>
+    </g>
+    <g
+       style="display:inline;opacity:1"
+       id="g4575"
+       transform="rotate(-17.131954,167.71297,118.92084)"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3421"
+         d="m 71.571102,229.60297 c 33.397838,26.64671 -12.008545,9.5213 -18.943827,7.22273 -6.935281,-2.29858 -8.397787,-8.82804 -6.171042,-15.54659 2.226742,-6.71855 7.299507,-11.08201 14.234785,-8.78344 6.935278,2.29857 5.34736,12.69298 10.880084,17.1073 z"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.26458332" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3430"
+         d="m 57.101701,231.2566 c -1.1942,2.83142 -2.263553,3.80056 -5.03692,2.45857 -2.773367,-1.34198 -3.82985,-5.25555 -2.63565,-8.08697 1.194201,-2.83143 1.950013,1.79503 4.723381,3.13701 2.773368,1.34199 4.14339,-0.34004 2.949189,2.49139 z"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.08947465" />
+    </g>
+    <path
+       style="display:inline;opacity:1;fill:#004600;fill-opacity:1;stroke-width:0.21175613"
+       d="m 108.07054,187.64449 c 2.56738,0.14731 5.23864,1.31619 7.60126,-0.55026 2.34093,-1.8493 6.11373,1.55712 6.62114,3.98846 2.42497,11.61958 6.90151,23.33526 3.52659,34.68319 -0.72193,2.42743 -2.30094,4.63434 -5.71921,4.88179 l -7.60126,0.55026 c -3.41828,0.24746 -6.37131,-1.53141 -6.62115,-3.98845 l -3.52658,-34.6832 c -0.24984,-2.45706 2.31128,-5.07731 5.71921,-4.88179 z"
+       id="rect3413"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;opacity:1;fill:#004600;fill-opacity:1;stroke-width:0.23108409"
+       d="m 84.217966,193.84142 c 2.328418,1.33732 5.323466,-1.2328 8.644163,-0.66651 3.1475,0.53676 5.80648,1.87301 6.08155,4.71033 1.365891,14.08886 4.893171,29.59391 1.257221,40.40544 -0.951711,2.82991 -7.409781,4.395 -10.528837,5.55359 l -2.961527,1.10012 c -3.11904,1.15863 -6.90631,-2.21167 -6.995371,-5.07409 l -1.257221,-40.40546 c -0.0891,-2.86244 3.141911,-7.12708 5.760022,-5.62339 z"
+       id="rect3411"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;opacity:1;fill:#ffccaa;fill-opacity:1;stroke-width:0.1300112"
+       d="m 77.064374,108.16654 c 1.015556,4.64625 -3.421496,6.74372 -9.697843,8.39823 -6.276343,1.65448 -9.926968,1.37925 -12.801211,-2.46727 0,0 0.994619,-17.846766 7.27096,-19.501256 6.276353,-1.65447 14.212528,8.924046 15.228094,13.570296 z"
+       id="path3354-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       style="display:inline;opacity:1"
+       transform="matrix(0.14205511,1.0420488,-1.0645896,0.05527307,178.62635,111.62401)"
+       id="g3439-6"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3349-6"
+         d="m 38.961039,119.20799 c -5.889308,2.14922 -21.499681,9.57046 -24.748195,5.348 -3.248511,-4.22246 8.122583,-16.5678 12.815029,-20.8589 4.777536,-4.368922 8.487534,-4.366866 11.736046,-0.1444 3.248507,4.22247 6.39423,13.39375 0.19712,15.6553 z"
+         style="fill:#ffccaa;fill-opacity:1;stroke-width:0.10079799" />
+      <ellipse
+         transform="rotate(15.721919)"
+         ry="4.1441917"
+         rx="4.9106188"
+         cy="98.371475"
+         cx="58.831905"
+         id="path3357-9"
+         style="fill:#ffe6d5;fill-opacity:1;stroke-width:0.22694252" />
+    </g>
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path3352-6"
+       d="m 45.334289,127.53001 c 3.089249,-4.33627 10.32103,-17.0359 15.025264,-15.64642 4.704256,1.38948 3.286283,15.49248 2.255443,20.75053 -1.049534,5.35343 -6.041409,4.33504 -10.745673,2.94558 -4.704239,-1.3895 -9.785748,-3.48678 -6.535034,-8.04969 z"
+       style="display:inline;opacity:1;fill:#ffccaa;fill-opacity:1;stroke-width:0.08875141"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cssssc"
+       inkscape:connector-curvature="0"
+       id="path3359"
+       d="m 127.59878,147.56274 c 4.10754,-3.96962 14.33087,-15.90912 18.67991,-13.65316 4.34902,2.25595 -0.4247,16.65763 -2.70411,21.94027 -2.32076,5.37843 -7.04442,3.45818 -11.39345,1.20222 -4.34903,-2.25595 -11.31474,-0.41835 -7.78637,-5.17233 z"
+       style="display:inline;opacity:1;fill:#ffccaa;fill-opacity:1;stroke-width:0.09199723"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="rect3388"
+       d="m 135.83212,143.97682 -6.47676,10.37976 c -1.70243,2.72834 -4.89316,3.27092 -7.1541,1.21656 l -8.81708,-8.01149 c -2.26094,-2.05436 -2.71057,-5.9047 -1.00815,-8.63304 l 6.47676,-10.37978 c 1.70242,-2.72833 3.28401,-0.70389 5.91386,0.8505 l 10.05732,5.94444 c 2.62985,1.55439 2.71058,5.90471 1.00815,8.63305 z"
+       style="display:inline;opacity:1;fill:#5f0080;fill-opacity:1;stroke-width:0.2383137"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       style="display:inline;opacity:1;fill:#5f0080;fill-opacity:1;stroke-width:0.24099906"
+       d="m 63.315388,143.70955 6.623544,10.37976 c 1.741013,2.72834 5.004054,3.27092 7.316235,1.21656 l 9.016904,-8.01149 c 2.312181,-2.05436 2.772,-5.9047 1.031,-8.63304 l -6.623545,-10.37978 c -1.741014,-2.72833 -3.358438,-0.70389 -6.047888,0.8505 l -10.285252,5.94444 c -2.689451,1.55439 -2.772011,5.90471 -1.030998,8.63305 z"
+       id="path2379"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss" />
+    <ellipse
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3154"
+       cx="42.810608"
+       cy="83.094292"
+       rx="4.9444861"
+       ry="3.0735996"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g3209"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         ry="3.1404169"
+         rx="4.6103992"
+         cy="80.755684"
+         cx="47.020107"
+         id="path3156"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse3158"
+         cx="50.160519"
+         cy="83.896103"
+         rx="4.9444861"
+         ry="3.0735996" />
+      <ellipse
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse3160"
+         cx="42.676971"
+         cy="86.702431"
+         rx="4.9444861"
+         ry="3.0735996" />
+      <ellipse
+         ry="3.0735996"
+         rx="4.9444861"
+         cy="81.624313"
+         cx="37.331581"
+         id="ellipse3162"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="sssssssss"
+         inkscape:connector-curvature="0"
+         id="rect3164"
+         d="m 45.612327,84.58894 18.068404,7.46092 c 0.0292,0.01206 -0.06864,-0.164991 -0.07747,-0.131473 l -0.329077,1.24888 c -0.0088,0.03352 0.148625,0.01782 0.118826,0.0084 L 44.812762,87.317862 c -0.02981,-0.0094 -0.04541,-0.04645 -0.0357,-0.07959 L 45.541574,84.629 c 0.0097,-0.03314 0.04155,-0.05212 0.07076,-0.04007 z"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="3.0735996"
+         rx="4.9444861"
+         cy="87.036514"
+         cx="36.930676"
+         id="ellipse3179"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse3181"
+         cx="46.485561"
+         cy="90.110115"
+         rx="4.9444861"
+         ry="3.0735996" />
+      <ellipse
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse3199"
+         cx="40.405178"
+         cy="91.580093"
+         rx="4.9444861"
+         ry="3.0735996" />
+    </g>
+    <g
+       id="g3280"
+       inkscape:export-filename="C:\Users\Mairah Khan\Desktop\Readings, etc\Junior Y 2nd Sem\Intro to Game Dev\Sprites\SpriterProject\Student\Year 2 Angry Student (Missions).png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         transform="scale(-1,1)"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse3246"
+         cx="-154.67871"
+         cy="83.126717"
+         rx="3.9103131"
+         ry="3.1404169" />
+      <ellipse
+         transform="scale(-1,1)"
+         ry="3.0735996"
+         rx="4.1936693"
+         cy="85.264877"
+         cx="-149.60974"
+         id="ellipse3248"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         transform="scale(-1,1)"
+         ry="3.0735996"
+         rx="4.1936693"
+         cy="88.071205"
+         cx="-155.95692"
+         id="ellipse3250"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         transform="scale(-1,1)"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse3252"
+         cx="-160.49062"
+         cy="82.993088"
+         rx="4.1936693"
+         ry="3.0735996" />
+      <path
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 153.46729,85.957713 -15.32472,7.46092 c -0.0248,0.01206 0.0582,-0.164991 0.0657,-0.131473 l 0.27911,1.24888 c 0.007,0.03352 -0.12606,0.01782 -0.10078,0.0084 l 15.75885,-5.857805 c 0.0253,-0.0094 0.0385,-0.04645 0.0303,-0.07959 l -0.64843,-2.609272 c -0.008,-0.03314 -0.0352,-0.05212 -0.06,-0.04007 z"
+         id="path3254"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <ellipse
+         transform="scale(-1,1)"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse3256"
+         cx="-160.83064"
+         cy="88.405289"
+         rx="4.1936693"
+         ry="3.0735996" />
+      <ellipse
+         transform="scale(-1,1)"
+         ry="3.0735996"
+         rx="4.1936693"
+         cy="91.478889"
+         cx="-152.72665"
+         id="ellipse3258"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         transform="scale(-1,1)"
+         ry="3.0735996"
+         rx="4.1936693"
+         cy="92.948868"
+         cx="-157.88374"
+         id="ellipse3260"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

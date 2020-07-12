@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Loading Screen.unity
+    guid: 92aee7171a91a2c4f8000025a50aad26
+  - enabled: 1
+    path: Assets/Scenes/Welcome Screen.unity
+    guid: ce7b6823ea90eb64a9ca62597cacac5d
+  - enabled: 1
+    path: Assets/Scenes/SelectGender.unity
+    guid: 8ed6bc546e9c69648b2fa6a74d8f72b9
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: e0b144c7aedfe7f4c9537644d7cbea83
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: fb69da587b0db3249b6ed10b96561e50
+  - enabled: 1
+    path: Assets/Scenes/Insufficient Balance.unity
+    guid: ce025e3bae9e59246beae2e7ec39d21a
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: b233ae6d44bf7a8479bcfb9fc508909c
+  - enabled: 1
+    path: Assets/Scenes/Confirm Purchase Item 1.unity
+    guid: 3be0bdad4c2ed774da3093dc3bd7301b
+  - enabled: 1
+    path: Assets/Scenes/Confirm Purchase Item 2.unity
+    guid: 68b300eddd860794ea300faeaa0c9862
+  - enabled: 1
+    path: Assets/Scenes/Confirm Purchase Item 3.unity
+    guid: c0f8fe8bd4cda6f439a9a0eb9ffc4c9e
+  - enabled: 1
+    path: Assets/Scenes/Help1.unity
+    guid: 9773aaa79abe3b145af51f740ebe8c52
+  - enabled: 1
+    path: Assets/Scenes/Help2.unity
+    guid: 95306c3d8813bc44d9d8bc0c36bf486c
+  - enabled: 1
+    path: Assets/Scenes/Help3.unity
+    guid: faf06bb8b9d6daa478565387e945d8cc
+  - enabled: 1
+    path: Assets/Scenes/Help4.unity
+    guid: 14bf7c123739a0c43aa58153434a3090
+  - enabled: 1
+    path: Assets/Scenes/Missions.unity
+    guid: 53f61783f0c5446469ab2a515af756a9
+  - enabled: 1
+    path: Assets/Scenes/Objectives.unity
+    guid: 55e5bb447a7cf8240a32ec3e2664d4d9
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 05a9eb60339ec5b4295267df8671daaf
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: b66b152beccb71141b86d35e4e845113
+  - enabled: 1
+    path: Assets/Scenes/Game Success.unity
+    guid: 3c998e8158a98df409a98df1adc9fb1f
+  - enabled: 1
+    path: Assets/Scenes/Objectives2.unity
+    guid: 731490c1095379141a4f3a12bd1e87f3
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 4fe8162507e32f94fa399f586b702126
+  - enabled: 1
+    path: Assets/Scenes/Objectives3.unity
+    guid: 365ed76f29f79cb418d517d92d51a9ac
+  - enabled: 1
+    path: Assets/Scenes/Item Posessed.unity
+    guid: fafb621c7a6aba840aa14562b9534e29
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 1b613a2b74ad3be48aaf7e6774936f33
+  - enabled: 1
+    path: Assets/Scenes/Objectives4.unity
+    guid: bdd03ea9799af004e935f2e75423dbf5
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 196c79bfa8540714aba09a4bfce75c8d
+  m_configObjects: {}
